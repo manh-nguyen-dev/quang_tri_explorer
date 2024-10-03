@@ -49,6 +49,7 @@ The **Quang Tri Explorer** app offers information about tourist attractions, cul
 assets/
 ├── images/                  # Folder containing images used in the app
 lib/
+├── constants/               # Constants and configurations 
 ├── data/                    # Static or mock data used in the app  
 ├── helpers/                 # Utility functions for common tasks like formatting
 ├── models/                  # Data models representing objects like locations or users
@@ -67,9 +68,11 @@ This project utilizes popular Flutter packages to provide core functionality.
 - **[http](https://pub.dev/packages/http)**: For handling HTTP requests.
 - **[google_mobile_ads](https://pub.dev/packages/google_mobile_ads)**: Integrates Google ads into the app.
 - **[geo_distance_calculator](https://pub.dev/packages/geo_distance_calculator)**: Calculates distances between geographical points.
+- **[shared_preferences](https://pub.dev/packages/shared_preferences)**: Provides persistent storage for simple data
 
 ## Features
 
+- User registration and login using email.
 - Displays a list of popular tourist destinations in Quang Tri province.
 - Calculates the distance between the user's current location and the listed destinations.
 - Supports in-app advertisements for revenue generation.
@@ -77,8 +80,9 @@ This project utilizes popular Flutter packages to provide core functionality.
 
 ## Screenshots
 
-| ![Screenshot 1](https://i.ibb.co/M8Lr5GV/Simulator-Screenshot-i-Phone-15-Pro-Max-2024-10-03-at-14-02-39.png) | ![Screenshot 2](https://i.ibb.co/gD7VP5z/Simulator-Screenshot-i-Phone-15-Pro-Max-2024-10-03-at-14-02-45.png) | ![Screenshot 3](https://i.ibb.co/cbpN03h/Simulator-Screenshot-i-Phone-15-Pro-Max-2024-10-03-at-14-02-58.png) | ![Screenshot 4](https://i.ibb.co/D5v8XnY/Simulator-Screenshot-i-Phone-15-Pro-Max-2024-10-03-at-14-03-04.png) |
+| ![Screenshot 1](https://i.ibb.co/fYVXdcq/Simulator-Screenshot-i-Phone-15-Pro-Max-2024-10-03-at-23-19-39.png) | ![Screenshot 2](https://i.ibb.co/m5Zt5bw/Simulator-Screenshot-i-Phone-15-Pro-Max-2024-10-03-at-23-19-47.png) | ![Screenshot 3](https://i.ibb.co/XZ5pt2r/Simulator-Screenshot-i-Phone-15-Pro-Max-2024-10-03-at-23-19-51.png) | ![Screenshot 4](https://i.ibb.co/S3KHbnM/Simulator-Screenshot-i-Phone-15-Pro-Max-2024-10-03-at-23-20-25.png) |
 |---|---|---|---|
+| ![Screenshot 5](https://i.ibb.co/4YRPCPW/Simulator-Screenshot-i-Phone-15-Pro-Max-2024-10-03-at-23-21-14.png) | ![Screenshot 6](https://i.ibb.co/JxqRq6n/Simulator-Screenshot-i-Phone-15-Pro-Max-2024-10-03-at-23-21-20.png) | ![Screenshot 7](https://i.ibb.co/W0GC6hd/Simulator-Screenshot-i-Phone-15-Pro-Max-2024-10-03-at-23-21-32.png) | ![Screenshot 8](https://i.ibb.co/4MTR7CS/Simulator-Screenshot-i-Phone-15-Pro-Max-2024-10-03-at-23-21-35.png) |
 
 ## Contributing
 

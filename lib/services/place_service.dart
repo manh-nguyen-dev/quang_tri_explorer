@@ -14,6 +14,7 @@ class PlaceService {
 
       return data.map((json) => PlaceModel.fromJson(json as Map<String, dynamic>)).toList();
     } catch (e) {
+
       rethrow;
     }
   }
