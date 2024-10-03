@@ -9,6 +9,7 @@
 - [Folder Structure](#folder-structure)
 - [Dependencies](#dependencies)
 - [Features](#features)
+- [Screenshots](#screenshots)
 - [Contributing](#contributing)
 
 ## Introduction
@@ -66,6 +67,11 @@ This project utilizes popular Flutter packages to provide core functionality.
 - Calculates the distance between the user's current location and the listed destinations.
 - Supports in-app advertisements for revenue generation.
 - User-friendly interface with smooth navigation.
+
+## Screenshots
+
+| ![Screenshot 1](https://i.ibb.co/M8Lr5GV/Simulator-Screenshot-i-Phone-15-Pro-Max-2024-10-03-at-14-02-39.png) | ![Screenshot 2](https://i.ibb.co/gD7VP5z/Simulator-Screenshot-i-Phone-15-Pro-Max-2024-10-03-at-14-02-45.png) | ![Screenshot 3](https://i.ibb.co/cbpN03h/Simulator-Screenshot-i-Phone-15-Pro-Max-2024-10-03-at-14-02-58.png) | ![Screenshot 4](https://i.ibb.co/D5v8XnY/Simulator-Screenshot-i-Phone-15-Pro-Max-2024-10-03-at-14-03-04.png) |
+|---|---|---|---|
 
 ## Contributing
 
