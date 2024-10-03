@@ -5,6 +5,7 @@
 ## Table of Contents
 
 - [Introduction](#introduction)
+- [Technologies](#technologies)
 - [Installation](#installation)
 - [Folder Structure](#folder-structure)
 - [Dependencies](#dependencies)
@@ -15,6 +16,12 @@
 ## Introduction
 
 The **Quang Tri Explorer** app offers information about tourist attractions, cultural landmarks, and historical sites in Quang Tri province. Users can view details about various locations, calculate distances, and use maps for navigation.
+
+## Technologies
+
+- **Front-end Mobile:** Flutter
+- **Backend:** Node.js
+- **Database:** MongoDB
 
 ## Installation
 
