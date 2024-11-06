@@ -43,7 +43,7 @@ android {
         versionCode = flutterVersionCode.toInteger()
         versionName = flutterVersionName
 
-        resValue "string", "ADMOB_APP_ID", localProperties.getProperty('ADMOB_APP_ID', "")
+        resValue "string", "admob_app_id", localProperties.getProperty('ADMOB_APP_ID', "")
     }
 
     buildTypes {
